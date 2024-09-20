@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Registration App for Devops Learning by Jitendra Patel  </h1>
+    <h1>Registration App for Devops Learning by Jitendra Patel edited by Jittendra  </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
